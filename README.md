@@ -6,7 +6,7 @@ I'm also an apprentice as Space Surveillance Software Developer at ArianeGroup.
 You will find here some school projects. <br/>
 (and soon, some personal projects too 🤫)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-cheicki)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-cheicki&theme=black-ice)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
 #### Want to reach me ?
