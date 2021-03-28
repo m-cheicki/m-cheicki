@@ -2,13 +2,13 @@
 
 I'm Mariyam, a french student at ESILV.<br/>
 I'm also an apprentice as Space Surveillance Software Developer at ArianeGroup.
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-cheicki&theme=black-ice)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--
 You will find here some school projects. <br/>
 (and soon, some personal projects too 🤫)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-cheicki&theme=black-ice)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
 
 #### Want to reach me ?
 Send me an email at : <a href="mailto:contact@mcheicki.fr">contact@mcheicki.fr</a>
