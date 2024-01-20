@@ -19,9 +19,9 @@ I also worked as freelance for a month as software and mobile engineer for [Komu
 
 I work essentially with : 
 <div>
-  <img alt="Python" height="24px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-  <img alt="Django" height="24px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
-  <img alt="PostgreSQL" height="24px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
+  <img alt="Python" height="48px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+  <img alt="Django" height="48px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+  <img alt="PostgreSQL" height="48px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
 </div>
 
 ---
@@ -29,6 +29,6 @@ I work essentially with :
 You can find me in: 
 <div>
     <a href="https://www.linkedin.com/in/mcheicki/" >
-        <img alt="LinkedIn" height="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+        <img alt="LinkedIn" height="48px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
     </a>
 </div>
