@@ -19,9 +19,9 @@ I also worked as freelance for a month as software and mobile engineer for [Komu
 
 I work essentially with : 
 <div>
-  <img alt="Python" height="48px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-  <img alt="Django" height="48px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
-  <img alt="PostgreSQL" height="48px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
+  <img style="padding-right: 12px" alt="Python" height="48px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+  <img style="padding-right: 12px" alt="Django" height="48px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+  <img style="padding-right: 12px" alt="PostgreSQL" height="48px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
 </div>
 
 ---
